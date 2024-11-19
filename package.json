@@ -1,0 +1,12 @@
+{
+  "name": "resignation-tracker",
+  "version": "1.0.0",
+  "description": "Resignation day tracker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
