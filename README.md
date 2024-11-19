@@ -1,7 +1,9 @@
 # 離職集點卡 Resignation Stamp Card
 
+![stamp-card](https://github.com/user-attachments/assets/048d9543-7d5a-40d4-b9dc-f3863893fdef)  
+
 - Inspired by [this post](https://www.threads.net/@qqian___/post/C_NWmddyP7z) in Threads.
-- With the help of (aka 99% completed by) [Claude](https://claude.ai/).
+- With the help of (aka 99% completed by) [Claude](https://claude.ai/).  
 
 ## Instructions
 
@@ -19,3 +21,4 @@
 - Data persists in `resignation_data.json` in the same folder even if process is terminated
 - The json file is created automatically if not exist
 - 會自動生成 `resignation_data.json` 並儲存在同一 folder 中，重啟 server 應該會看到先前收集的點數
+
